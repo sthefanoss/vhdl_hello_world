@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, E:/Projetos/If/Quartus/hello_world/vhdl_hello_world/hello_world.vhd
+source_file = 1, E:/Projetos/If/Quartus/hello_world/vhdl_hello_world/test_wave.vwf
+source_file = 1, E:/Projetos/If/Quartus/hello_world/vhdl_hello_world/db/hello_world.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = hello_world
+instance = comp, \A~I , A, hello_world, 1
+instance = comp, \B~I , B, hello_world, 1
+instance = comp, \Sand~0 , Sand~0, hello_world, 1
+instance = comp, \Sor~I , Sor, hello_world, 1
+instance = comp, \Sand~I , Sand, hello_world, 1

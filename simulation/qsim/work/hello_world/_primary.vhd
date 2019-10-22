@@ -1,0 +1,10 @@
+library verilog;
+use verilog.vl_types.all;
+entity hello_world is
+    port(
+        A               : in     vl_logic;
+        B               : in     vl_logic;
+        Sor             : out    vl_logic;
+        Sand            : out    vl_logic
+    );
+end hello_world;
