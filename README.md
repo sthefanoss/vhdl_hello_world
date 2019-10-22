@@ -1,2 +1,2 @@
-# vhdl_hello_world
- Primeiro projeto em vhdl
+# Hello World em VHDL
+ Este projeto deve servir como introdução ao QuartusII e ao vhdl.
